@@ -9,8 +9,7 @@ echo "Installing Designer applications"
 
 # Graphic editing tools
 
-brew_cask_install_if_missing adobe-creative-cloud
-brew_cask_install_if_missing sketch
+brew_cask_install_if_missing figma
 
 # Screen recording tools
 
