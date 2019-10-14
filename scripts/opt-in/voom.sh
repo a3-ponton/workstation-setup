@@ -25,6 +25,7 @@ brew_install_if_missing redis
 brew_install_if_missing imagemagick
 brew_install_if_missing libxml2
 brew_cask_install_if_missing chromedriver
+brew_cask_install_if_missing 1password
 brew_cask_install_if_missing ngrok
 brew_install_if_missing memcached
 
