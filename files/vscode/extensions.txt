@@ -24,6 +24,5 @@ sianglim.slim
 tyriar.sort-lines
 vayan.haml
 vscode-icons-team.vscode-icons
-xabikos.JasmineSnippets
 xabikos.JavaScriptSnippets
 xabikos.ReactSnippets

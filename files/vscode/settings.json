@@ -1,5 +1,5 @@
 {
-  "editor.fontSize": 18,
+  "editor.fontSize": 13,
   "editor.tabSize": 2,
   "editor.cursorStyle": "block",
   "editor.minimap.enabled": false,
@@ -11,7 +11,7 @@
   "workbench.editor.enablePreview": false,
   "workbench.editor.enablePreviewFromQuickOpen": false,
   "window.zoomLevel": 1,
-  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontSize": 13,
   "javascript.suggest.autoImports": false,
   "typescript.suggest.autoImports": false,
   "workbench.iconTheme": "vscode-icons",

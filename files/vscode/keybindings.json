@@ -1,0 +1,23 @@
+// This file is owned by workstation-setup. Please update here: https://github.com/voomflights/workstation-setup/blob/master/files/vscode/keybindings.json
+// and re-run `./single.sh ./scripts/opt-in/vscode.sh`
+[
+  {
+    "key": "cmd+t",
+    "command": "extension.runJest",
+    "when": "editorLangId == 'javascript' || editorLangId == 'typescript' || editorLangId == 'typescriptreact' || editorLangId == 'javascriptreact'"
+  },
+  {
+    "key": "cmd+shift+t",
+    "command": "extension.runJestFile",
+    "when": "editorLangId == 'javascript' || editorLangId == 'typescript' || editorLangId == 'typescriptreact' || editorLangId == 'javascriptreact'"
+  },
+  {
+    "key": "cmd+t",
+    "command": "extension.runSpecLine",
+    "when": "editorLangId == 'ruby'"
+  },
+  {
+    "key": "cmd+l",
+    "command": "-extension.runSpecLine"
+  }
+]
