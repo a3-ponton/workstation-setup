@@ -12,4 +12,4 @@ brew_install_if_missing yarn
 
 nvm install v10
 nvm alias default v10
-npm install yarn -g
+npm install yarn detox-cli -g
